@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/99324596/182840590-8c0202a5-4899-415b-8ad7-940708577252.png)
+
+
 # AirBnB_clone
 This is a repository for the AirBnB_clone team project for Alx-Holberton School.
 
