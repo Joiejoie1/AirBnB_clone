@@ -40,3 +40,15 @@ Documented commands (type help <topic>):
 EOF  help  quit
 (hbnb) 
 $
+
+  $ ./console.py
+(hbnb) help
+
+Documented commands (type help <topic>):
+========================================
+EOF  help  quit
+
+(hbnb) 
+(hbnb) 
+(hbnb) quit
+$
