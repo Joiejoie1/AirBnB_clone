@@ -46,3 +46,6 @@ $
   
   ![image](https://user-images.githubusercontent.com/99324596/182841460-aac860d2-4275-4bb1-8a1a-d7d9ebf3eb6b.png)
 
+# AUTHORS
+  Joy Gundu (cryptocurrencydiva@gmail.com) - Twitter: 
+  Ayodele Oyesanya ()
