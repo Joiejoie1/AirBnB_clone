@@ -12,7 +12,7 @@ Files | Description
 [Images](./images/) | Images for this project
 ---------------------------------------------
 
-## Author
+## Authors
 [Joy Gundu](https://github.com/Joiejoie1)
 
 [Ayodele Oyesanya](https://github.com/sammyayo)
